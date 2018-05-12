@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3832
     wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35521#Riding-Recollections-5th-ed.
 gutenberg_issued: '2011-03-08'
 gutenberg_type: Text
 identifiers:
